@@ -1,0 +1,15 @@
+C:\Users\w67166\source\repos\programowanie_obiektowe_lab\lab01-22.10.23\obj\Debug\net7.0\lab01-22.10.23.csproj.AssemblyReference.cache
+C:\Users\w67166\source\repos\programowanie_obiektowe_lab\lab01-22.10.23\obj\Debug\net7.0\lab01-22.10.23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w67166\source\repos\programowanie_obiektowe_lab\lab01-22.10.23\obj\Debug\net7.0\lab01-22.10.23.AssemblyInfoInputs.cache
+C:\Users\w67166\source\repos\programowanie_obiektowe_lab\lab01-22.10.23\obj\Debug\net7.0\lab01-22.10.23.AssemblyInfo.cs
+C:\Users\w67166\source\repos\programowanie_obiektowe_lab\lab01-22.10.23\obj\Debug\net7.0\lab01-22.10.23.csproj.CoreCompileInputs.cache
+C:\Users\w67166\source\repos\programowanie_obiektowe_lab\lab01-22.10.23\bin\Debug\net7.0\lab01-22.10.23.exe
+C:\Users\w67166\source\repos\programowanie_obiektowe_lab\lab01-22.10.23\bin\Debug\net7.0\lab01-22.10.23.deps.json
+C:\Users\w67166\source\repos\programowanie_obiektowe_lab\lab01-22.10.23\bin\Debug\net7.0\lab01-22.10.23.runtimeconfig.json
+C:\Users\w67166\source\repos\programowanie_obiektowe_lab\lab01-22.10.23\bin\Debug\net7.0\lab01-22.10.23.dll
+C:\Users\w67166\source\repos\programowanie_obiektowe_lab\lab01-22.10.23\bin\Debug\net7.0\lab01-22.10.23.pdb
+C:\Users\w67166\source\repos\programowanie_obiektowe_lab\lab01-22.10.23\obj\Debug\net7.0\lab01-22.10.23.dll
+C:\Users\w67166\source\repos\programowanie_obiektowe_lab\lab01-22.10.23\obj\Debug\net7.0\refint\lab01-22.10.23.dll
+C:\Users\w67166\source\repos\programowanie_obiektowe_lab\lab01-22.10.23\obj\Debug\net7.0\lab01-22.10.23.pdb
+C:\Users\w67166\source\repos\programowanie_obiektowe_lab\lab01-22.10.23\obj\Debug\net7.0\lab01-22.10.23.genruntimeconfig.cache
+C:\Users\w67166\source\repos\programowanie_obiektowe_lab\lab01-22.10.23\obj\Debug\net7.0\ref\lab01-22.10.23.dll
