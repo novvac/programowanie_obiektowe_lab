@@ -20,9 +20,9 @@ namespace lab3
             this.wiek = w;
         }
 
-        public void View()
+        public override string ToString()
         {
-            Console.WriteLine($"{this.FirstName} {this.LastName} - wiek: {this.wiek}");
+            return FirstName+ " " + LastName + " - " + wiek;
         }
     }
 }

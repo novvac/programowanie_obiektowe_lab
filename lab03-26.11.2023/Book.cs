@@ -19,10 +19,9 @@ namespace lab3
             this.releaseDate = releaseDate;
         }
 
-        public void View()
+        public override string ToString()
         {
-            Console.Write($"{this.title} - {this.releaseDate} - ");
-            author.View();
+            return title + " - " + author.ToString() + " - " + releaseDate;
         }
     }
 }
