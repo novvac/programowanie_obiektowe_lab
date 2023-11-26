@@ -1,0 +1,15 @@
+C:\Users\w67166\source\repos\lab04\obj\Debug\net7.0\lab04.csproj.AssemblyReference.cache
+C:\Users\w67166\source\repos\lab04\obj\Debug\net7.0\lab04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w67166\source\repos\lab04\obj\Debug\net7.0\lab04.AssemblyInfoInputs.cache
+C:\Users\w67166\source\repos\lab04\obj\Debug\net7.0\lab04.AssemblyInfo.cs
+C:\Users\w67166\source\repos\lab04\obj\Debug\net7.0\lab04.csproj.CoreCompileInputs.cache
+C:\Users\w67166\source\repos\lab04\bin\Debug\net7.0\lab04.exe
+C:\Users\w67166\source\repos\lab04\bin\Debug\net7.0\lab04.deps.json
+C:\Users\w67166\source\repos\lab04\bin\Debug\net7.0\lab04.runtimeconfig.json
+C:\Users\w67166\source\repos\lab04\bin\Debug\net7.0\lab04.dll
+C:\Users\w67166\source\repos\lab04\bin\Debug\net7.0\lab04.pdb
+C:\Users\w67166\source\repos\lab04\obj\Debug\net7.0\lab04.dll
+C:\Users\w67166\source\repos\lab04\obj\Debug\net7.0\refint\lab04.dll
+C:\Users\w67166\source\repos\lab04\obj\Debug\net7.0\lab04.pdb
+C:\Users\w67166\source\repos\lab04\obj\Debug\net7.0\lab04.genruntimeconfig.cache
+C:\Users\w67166\source\repos\lab04\obj\Debug\net7.0\ref\lab04.dll
